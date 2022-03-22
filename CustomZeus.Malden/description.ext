@@ -1,3 +1,14 @@
+author			= "LucyferHW";
+onLoadName		= "CustomZeus";
+onLoadMission	= "<onLoadMission>";
+
+class Header
+{
+	gameType =  Coop;	// Game type
+	minPlayers =  1;	// minimum number of players the mission supports
+	maxPlayers = 13;	// maximum number of players the mission supports
+};
+
 respawn=3;
 respawnDelay=2;
 respawnOnStart=-1;
