@@ -1,5 +1,4 @@
 # Respawn with first spawn loadout
-# Respawn with same Loadout
 
 ## in the game
 ### for each Playableunit
